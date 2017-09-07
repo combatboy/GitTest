@@ -6,6 +6,8 @@
     <groupId>org.codehaus.mojo</groupId>
     <artifactId>my-project</artifactId>
     <version>1.0</version>
-	<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+	 <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
 	
 </project>
