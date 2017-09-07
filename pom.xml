@@ -1,22 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Explore
- @combatboy
- Sign out
- Watch 2
-  Star 2
-  Fork 1 zlcook/cidemo
- Code  Issues 0  Pull requests 0  Projects 0  Wiki Insights 
-Branch: master Find file Copy pathcidemo/pom.xml
-15e935f  on 30 Nov 2016
-@zlcook zlcook 修改了pom文件，添加部署到nexus的配置
-1 contributor
-RawBlameHistory     
-60 lines (60 sloc)  2 KB
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" 
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
